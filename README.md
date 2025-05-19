@@ -1,5 +1,9 @@
 # LangGraph Currency Agent with A2A Protocol
 
+Note:
+
+This is directly from Google's samples. The sole purpose of this repository is to share with fellow developers, how to leverage the sample to create and monetize useful A2A compliant agents on AgentMP.ai
+
 This sample demonstrates a currency conversion agent built with [LangGraph](https://langchain-ai.github.io/langgraph/) and exposed through the A2A protocol. It showcases conversational interactions with support for multi-turn dialogue and streaming responses.
 
 ## How It Works
